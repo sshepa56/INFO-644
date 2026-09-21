@@ -1,6 +1,7 @@
 ```python
 
-## Part 1 
+## Part 1
+## Here I used lists of dictionaries to print my week of dear data collection.
 dear_data = [
     {
         "day": "Monday",
@@ -54,8 +55,8 @@ print(dear_data)
 
 
 ```python
-### Part 2 Sorting example 
-
+### Part 2 Sorting example
+### I sorted by hours slept to see the basic statistics. There is some correlation to the range of  hours_not_at_home, perhaps exaggerated because I was home sick. 
 hours_slept = [14.5, 6, 6.5, 6.5, 8, 13, 8]
 
 sorted_hours_slept = sorted(hours_slept)
@@ -82,6 +83,7 @@ print(sorted_hours_not_at_home)
 
 ```python
 ### Part 3: adding in Monday
+### Here I am adding last Monday's collected dear_data. I am wondering if this needs to be differentiated from monday1? 
 dear_data.append(
     {
         "day": "Monday",
