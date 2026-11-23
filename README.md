@@ -1,7 +1,7 @@
 
 # Mapping Mortality in New York City
 
-## Project Scope
+## Project Scopw
 
 This project examines geographic patterns in mortality across New York City using 2023 death count data to explore post-pandemic mortality alongside health insurance enrollment, causes of death, and demographic factors. Using Python, Pandas, and Plotly, the project develops interactive visualizations to examine differences across NYC community districts and ZIP codes.
 
